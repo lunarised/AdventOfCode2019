@@ -28,7 +28,7 @@ public class GravityComputer{
                 }
                 finally{
                 }
-                }
+            }
             sc.close();
         } 
         catch (FileNotFoundException e) {
